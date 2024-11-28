@@ -1,0 +1,28 @@
+<resources>
+    <string name="personaje_image_desc">personaje</string>
+    <string name="app_name">Tarea 2</string>
+    <string name="titulo_personajes">Lista de Personajes</string>
+    <string name="acerca_de">Acerca de...</string>
+    <string name="descripcion_acerca_de">Aplicación desarrollada por Alejandro Vega Ortega. Versión 1.0.</string>
+    <string name="nombre_mario">Mario</string>
+    <string name="descripcion_mario">Héroe del Reino Champiñón</string>
+    <string name="habilidad_mario">Salta alto</string>
+    <string name="nombre_luigi">Luigi</string>
+    <string name="descripcion_luigi">Hermano de Mario</string>
+    <string name="habilidad_luigi">Aletea en el aire para hacer más suaves sus descensos</string>
+    <string name="nombre_peach">Peach</string>
+    <string name="descripcion_peach">Princesa del Reino Champiñón</string>
+    <string name="habilidad_peach">Flota delicadamente de un sitio para otro</string>
+    <string name="nombre_toad">Toad</string>
+    <string name="descripcion_toad">Habitante del Reino Champiñón</string>
+    <string name="habilidad_toad">Fuerza descomunal en sus piernas</string>
+    <string name="volver">Volver</string>
+    <string name="bienvenidos">Bienvenidos al mundo de Mario</string>
+    <string name="seleccion">Personaje seleccionado: </string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="language">Idioma</string>
+    <string name="switch_language">Cambiar a Inglés</string>
+</resources>

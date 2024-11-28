@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para TextView -->
+    <style name="CustomTextViewStyle">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:fontFamily">@font/robotobold</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <!-- Estilo para RecyclerView (principalmente color de fondo) -->
+    <style name="CustomRecyclerViewStyle">
+        <item name="android:background">@color/primaryColor</item>
+    </style>
+
+</resources>

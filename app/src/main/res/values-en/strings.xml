@@ -1,0 +1,28 @@
+<resources>
+    <string name="personaje_image_desc">Character</string>
+    <string name="app_name">Task 2</string>
+    <string name="titulo_personajes">Character List</string>
+    <string name="acerca_de">About...</string>
+    <string name="descripcion_acerca_de">App developed by Alejandro Vega Ortega. Version 1.0.</string>
+    <string name="nombre_mario">Mario</string>
+    <string name="descripcion_mario">Hero of the Mushroom Kingdom</string>
+    <string name="habilidad_mario">Super jump</string>
+    <string name="nombre_luigi">Luigi</string>
+    <string name="descripcion_luigi">Mario\'s Brother</string>
+    <string name="habilidad_luigi">It flaps in the air to make its descents smoother</string>
+    <string name="nombre_peach">Peach</string>
+    <string name="descripcion_peach">Princess of the Mushroom Kingdom</string>
+    <string name="habilidad_peach">Floats delicately from one place to another</string>
+    <string name="nombre_toad">Toad</string>
+    <string name="descripcion_toad">Resident of the Mushroom Kingdom</string>
+    <string name="habilidad_toad">Huge strength in his legs</string>
+    <string name="volver">Back</string>
+    <string name="bienvenidos">Welcome to the Mario\'s world</string>
+    <string name="seleccion">Character selected: </string>
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Configuration</string>
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+    <string name="language">Language</string>
+    <string name="switch_language">Switch to Spanish</string>
+</resources>
